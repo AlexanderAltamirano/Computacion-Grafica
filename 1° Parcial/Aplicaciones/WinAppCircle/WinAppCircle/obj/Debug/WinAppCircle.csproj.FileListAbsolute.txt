@@ -1,9 +1,0 @@
-C:\Users\Labs-DECC\Documents\Altamirano_Jonathan_C_Grafica\WinAppCircle\WinAppCircle\bin\Debug\WinAppCircle.exe.config
-C:\Users\Labs-DECC\Documents\Altamirano_Jonathan_C_Grafica\WinAppCircle\WinAppCircle\bin\Debug\WinAppCircle.exe
-C:\Users\Labs-DECC\Documents\Altamirano_Jonathan_C_Grafica\WinAppCircle\WinAppCircle\bin\Debug\WinAppCircle.pdb
-C:\Users\Labs-DECC\Documents\Altamirano_Jonathan_C_Grafica\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.csprojResolveAssemblyReference.cache
-C:\Users\Labs-DECC\Documents\Altamirano_Jonathan_C_Grafica\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.frmCircle.resources
-C:\Users\Labs-DECC\Documents\Altamirano_Jonathan_C_Grafica\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.Properties.Resources.resources
-C:\Users\Labs-DECC\Documents\Altamirano_Jonathan_C_Grafica\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.csproj.GenerateResource.Cache
-C:\Users\Labs-DECC\Documents\Altamirano_Jonathan_C_Grafica\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.exe
-C:\Users\Labs-DECC\Documents\Altamirano_Jonathan_C_Grafica\WinAppCircle\WinAppCircle\obj\Debug\WinAppCircle.pdb

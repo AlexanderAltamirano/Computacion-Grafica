@@ -1,9 +1,0 @@
-C:\Users\Labs-DECC\Documents\WinAppMessages\WinAppMessages\bin\Debug\WinAppMessages.exe.config
-C:\Users\Labs-DECC\Documents\WinAppMessages\WinAppMessages\obj\Debug\WinAppMessages.csprojResolveAssemblyReference.cache
-C:\Users\Labs-DECC\Documents\WinAppMessages\WinAppMessages\obj\Debug\WinAppMessages.FrmMessages.resources
-C:\Users\Labs-DECC\Documents\WinAppMessages\WinAppMessages\obj\Debug\WinAppMessages.Properties.Resources.resources
-C:\Users\Labs-DECC\Documents\WinAppMessages\WinAppMessages\obj\Debug\WinAppMessages.csproj.GenerateResource.Cache
-C:\Users\Labs-DECC\Documents\WinAppMessages\WinAppMessages\bin\Debug\WinAppMessages.exe
-C:\Users\Labs-DECC\Documents\WinAppMessages\WinAppMessages\bin\Debug\WinAppMessages.pdb
-C:\Users\Labs-DECC\Documents\WinAppMessages\WinAppMessages\obj\Debug\WinAppMessages.exe
-C:\Users\Labs-DECC\Documents\WinAppMessages\WinAppMessages\obj\Debug\WinAppMessages.pdb
