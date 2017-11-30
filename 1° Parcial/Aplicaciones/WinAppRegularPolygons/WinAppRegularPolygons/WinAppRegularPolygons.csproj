@@ -1,16 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{18F62237-1798-4602-B6D0-E2FC8A23BAFA}</ProjectGuid>
+    <ProjectGuid>{E2589BDF-DE35-455A-BD02-F7AFCE87904E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>WinAppRegularPolygons</RootNamespace>
     <AssemblyName>WinAppRegularPolygons</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -40,6 +41,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
   </ItemGroup>
@@ -48,12 +50,12 @@
     <Compile Include="CDodecagon.cs" />
     <Compile Include="CEndecagon.cs" />
     <Compile Include="CEneagon.cs" />
-    <Compile Include="CEquilateralTriangle.cs" />
     <Compile Include="CHeptagon.cs" />
     <Compile Include="CHexagon.cs" />
     <Compile Include="COctagon.cs" />
     <Compile Include="CPentagon.cs" />
     <Compile Include="CSquare.cs" />
+    <Compile Include="CTriangle.cs" />
     <Compile Include="frmDecagon.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,12 +80,6 @@
     <Compile Include="frmEneagon.Designer.cs">
       <DependentUpon>frmEneagon.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmEquilateralTriangle.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmEquilateralTriangle.Designer.cs">
-      <DependentUpon>frmEquilateralTriangle.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmHeptagon.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -95,12 +91,6 @@
     </Compile>
     <Compile Include="frmHexagon.Designer.cs">
       <DependentUpon>frmHexagon.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmMenu.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmMenu.Designer.cs">
-      <DependentUpon>frmMenu.cs</DependentUpon>
     </Compile>
     <Compile Include="frmOctagon.cs">
       <SubType>Form</SubType>
@@ -114,6 +104,18 @@
     <Compile Include="frmPentagon.Designer.cs">
       <DependentUpon>frmPentagon.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmEquilaterTriangle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEquilaterTriangle.Designer.cs">
+      <DependentUpon>frmEquilaterTriangle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmSquare.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -122,14 +124,38 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmDecagon.resx">
+      <DependentUpon>frmDecagon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDodecagon.resx">
+      <DependentUpon>frmDodecagon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEndecagon.resx">
+      <DependentUpon>frmEndecagon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEneagon.resx">
+      <DependentUpon>frmEneagon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHeptagon.resx">
+      <DependentUpon>frmHeptagon.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmHexagon.resx">
       <DependentUpon>frmHexagon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOctagon.resx">
+      <DependentUpon>frmOctagon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPentagon.resx">
+      <DependentUpon>frmPentagon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEquilaterTriangle.resx">
+      <DependentUpon>frmEquilaterTriangle.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMenu.resx">
       <DependentUpon>frmMenu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmOctagon.resx">
-      <DependentUpon>frmOctagon.cs</DependentUpon>
+    <EmbeddedResource Include="frmSquare.resx">
+      <DependentUpon>frmSquare.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

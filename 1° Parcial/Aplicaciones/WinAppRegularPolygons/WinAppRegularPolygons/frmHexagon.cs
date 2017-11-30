@@ -12,34 +12,32 @@ namespace WinAppRegularPolygons
 {
     public partial class frmHexagon : Form
     {
-        // Datos miembro - Atributos.
-        CHexagon ObjHexagon = new CHexagon();
+        // Datos miembro - atributos.
+        private CHexagon ObjCHexagon = new CHexagon();
 
+        // Constructor del formulario.
         public frmHexagon()
         {
             InitializeComponent();
-            ObjHexagon.InitializeData(txtSide, txtPerimeter, txtArea, picCanvas);
+            ObjCHexagon.InitializeData(txtSide,txtPerimeter,txtArea,picCanvas);
         }
-
         private void frmHexagon_Load(object sender, EventArgs e)
         {
-            ObjHexagon.InitializeData(txtSide, txtPerimeter, txtArea, picCanvas);
+            ObjCHexagon.InitializeData(txtSide, txtPerimeter, txtArea, picCanvas);
         }
-
         private void btnCalculate_Click(object sender, EventArgs e)
         {
-            ObjHexagon.ReadData(txtSide);
-            ObjHexagon.PerimeterHexagon();
-            ObjHexagon.AreaHexagon();
-            ObjHexagon.PrintData(txtPerimeter, txtArea);
-            ObjHexagon.GraphShape(picCanvas);
+            ObjCHexagon.ReadData(txtSide);
+            ObjCHexagon.PerimeterHexagon();
+            ObjCHexagon.ApothemHexagon();
+            ObjCHexagon.AreaHexagon();
+            ObjCHexagon.PrintData(txtArea, txtPerimeter);
+            ObjCHexagon.GraphShape(picCanvas);
         }
-
         private void btnReset_Click(object sender, EventArgs e)
         {
-            ObjHexagon.InitializeData(txtSide, txtPerimeter, txtArea, picCanvas);
+            ObjCHexagon.InitializeData(txtSide, txtPerimeter, txtArea, picCanvas);
         }
-
         private void btnExit_Click(object sender, EventArgs e)
         {
             Close();

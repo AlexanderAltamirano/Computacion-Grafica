@@ -1,0 +1,85 @@
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe.config
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.pdb
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csprojResolveAssemblyReference.cache
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.Menu.resources
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.Properties.Resources.resources
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csproj.GenerateResource.Cache
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.exe
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.pdb
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHexagon.resources
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDecagon.resources
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDodecagon.resources
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHeptagon.resources
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmOctagon.resources
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmPentagon.resources
+G:\GRÁFICA\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmTriangle.resources
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe.config
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.exe
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.pdb
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.pdb
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDecagon.resources
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHeptagon.resources
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHexagon.resources
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmOctagon.resources
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmPentagon.resources
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmTriangle.resources
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.Menu.resources
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.Properties.Resources.resources
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csproj.GenerateResource.Cache
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csprojResolveAssemblyReference.cache
+C:\Users\userj\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDodecagono.resources
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe.config
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.exe
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.pdb
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.pdb
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csprojResolveAssemblyReference.cache
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDecagon.resources
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDodecagon.resources
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHeptagon.resources
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHexagon.resources
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmOctagon.resources
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmPentagon.resources
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmTriangle.resources
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.Menu.resources
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.Properties.Resources.resources
+C:\Users\Pc-Casa\Desktop\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csproj.GenerateResource.Cache
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe.config
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.pdb
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csprojResolveAssemblyReference.cache
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDecagon.resources
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDodecagon.resources
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHeptagon.resources
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHexagon.resources
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmOctagon.resources
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmPentagon.resources
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmTriangle.resources
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.Menu.resources
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.Properties.Resources.resources
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csproj.GenerateResource.Cache
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csproj.CoreCompileInputs.cache
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.exe
+D:\ESPE\Computación Gráfica Villacis\Gráfica\Primer Parcial\Deberes\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.pdb
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe.config
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.exe
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\bin\Debug\WinAppRegularPolygons.pdb
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDecagon.resources
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmDodecagon.resources
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHeptagon.resources
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmHexagon.resources
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmOctagon.resources
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmPentagon.resources
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.Properties.Resources.resources
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csproj.GenerateResource.Cache
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.exe
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.pdb
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmMenu.resources
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEneagon.resources
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEquilaterTriangle.resources
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmEndecagon.resources
+C:\Users\BRYAN TUALLE\Downloads\WinAppRegularPolygons\WinAppRegularPolygons\WinAppRegularPolygons\obj\Debug\WinAppRegularPolygons.frmSquare.resources

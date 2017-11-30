@@ -12,34 +12,32 @@ namespace WinAppRegularPolygons
 {
     public partial class frmOctagon : Form
     {
-        // Datos miembro - Atributos.
-        COctagon ObjOctagon = new COctagon();
+             
+        private COctagon ObjCOctagon = new COctagon();
 
+        // Constructor del formulario.
         public frmOctagon()
         {
             InitializeComponent();
-            ObjOctagon.InitializeData(txtSide, txtPerimeter, txtArea, picCanvas);
+            ObjCOctagon.InitializeData(txtSide, txtPerimeter, txtArea, picCanvas);
         }
-
         private void frmOctagon_Load(object sender, EventArgs e)
         {
-            ObjOctagon.InitializeData(txtSide, txtPerimeter, txtArea, picCanvas);
+            ObjCOctagon.InitializeData(txtSide, txtPerimeter, txtArea, picCanvas);
         }
-
         private void btnCalculate_Click(object sender, EventArgs e)
         {
-            ObjOctagon.ReadData(txtSide);
-            ObjOctagon.PerimeterHexagon();
-            ObjOctagon.AreaHexagon();
-            ObjOctagon.PrintData(txtPerimeter, txtArea);
-            ObjOctagon.GraphShape(picCanvas);
+            ObjCOctagon.ReadData(txtSide);
+            ObjCOctagon.PerimeterOctagon();
+            ObjCOctagon.ApothemOctagon();
+            ObjCOctagon.AreaOctagon();
+            ObjCOctagon.PrintData(txtArea, txtPerimeter);
+            ObjCOctagon.GraphShape(picCanvas);
         }
-
         private void btnReset_Click(object sender, EventArgs e)
         {
-            ObjOctagon.InitializeData(txtSide, txtPerimeter, txtArea, picCanvas);
+            ObjCOctagon.InitializeData(txtSide, txtPerimeter, txtArea, picCanvas);
         }
-
         private void btnExit_Click(object sender, EventArgs e)
         {
             Close();
