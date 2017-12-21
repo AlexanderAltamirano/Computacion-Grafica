@@ -17,16 +17,19 @@ namespace WinAppRegularPolygons
             InitializeComponent();
         }
 
-        private void btnTriangle_Click(object sender, EventArgs e)
+        private void frmMenu_Load(object sender, EventArgs e)
         {
-            frmEquilaterTriangle ObjForm = new frmEquilaterTriangle();
-            ObjForm.Show();
+
+        }
+
+        private void btnEquilateralTriangle_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void btnSquare_Click(object sender, EventArgs e)
         {
-            frmSquare objForm = new frmSquare();
-            objForm.Show();
+
         }
 
         private void btnPentagon_Click(object sender, EventArgs e)
@@ -53,37 +56,29 @@ namespace WinAppRegularPolygons
             ObjForm.Show();
         }
 
-        private void btnDecagon_Click(object sender, EventArgs e)
-        {
-            frmDecagon ObjForm = new frmDecagon();
-            ObjForm.Show();
-        }
-
-        private void btnDodecagon_Click(object sender, EventArgs e)
-        {
-            frmDodecagon ObjForm = new frmDodecagon();
-            ObjForm.Show();
-        }
-
-
         private void btnEneagon_Click(object sender, EventArgs e)
         {
-            frmEneagon objForm = new frmEneagon();
-            objForm.Show();
+
+        }
+
+        private void btnDecagon_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void btnEndecagon_Click(object sender, EventArgs e)
         {
-            frmEndecagon objForm = new frmEndecagon();
-            objForm.Show();
+
         }
 
+        private void btnDodecagon_Click(object sender, EventArgs e)
+        {
+
+        }
 
         private void btnExit_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
-
-
     }
 }

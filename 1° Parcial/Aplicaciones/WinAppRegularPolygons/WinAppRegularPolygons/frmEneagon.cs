@@ -12,36 +12,9 @@ namespace WinAppRegularPolygons
 {
     public partial class frmEneagon : Form
     {
-        CEneagon objEneagon = new CEneagon();
-
         public frmEneagon()
         {
             InitializeComponent();
-        }
-
-        private void frmEneagon_Load(object sender, EventArgs e)
-        {
-            objEneagon.InitializeData(txtSide, txtPerimeter, txtArea, picCanvas);
-        }
-
-        private void btnCalculate_Click(object sender, EventArgs e)
-        {
-            
-            objEneagon.ReadData(txtSide);
-            objEneagon.PerimeterEneagon();
-            objEneagon.AreaEneagon();
-            objEneagon.PrintData(txtPerimeter, txtArea);
-            objEneagon.GraphShape(picCanvas);
-        }
-
-        private void btnReset_Click(object sender, EventArgs e)
-        {
-            objEneagon.InitializeData(txtSide, txtPerimeter, txtArea, picCanvas);
-        }
-
-        private void btnExit_Click(object sender, EventArgs e)
-        {
-            Close();
         }
     }
 }
