@@ -1,0 +1,30 @@
+C:\Users\Labs-DECC\Desktop\WinAppVectores2D\WinAppVectores2D\bin\Debug\WinAppVectores2D.exe.config
+C:\Users\Labs-DECC\Desktop\WinAppVectores2D\WinAppVectores2D\bin\Debug\WinAppVectores2D.exe
+C:\Users\Labs-DECC\Desktop\WinAppVectores2D\WinAppVectores2D\bin\Debug\WinAppVectores2D.pdb
+C:\Users\Labs-DECC\Desktop\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.csprojResolveAssemblyReference.cache
+C:\Users\Labs-DECC\Desktop\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.frmVectors2D.resources
+C:\Users\Labs-DECC\Desktop\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.Properties.Resources.resources
+C:\Users\Labs-DECC\Desktop\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.csproj.GenerateResource.Cache
+C:\Users\Labs-DECC\Desktop\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.exe
+C:\Users\Labs-DECC\Desktop\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.pdb
+E:\WinAppVectores2D\WinAppVectores2D\bin\Debug\WinAppVectores2D.exe.config
+E:\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.exe
+E:\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.pdb
+E:\WinAppVectores2D\WinAppVectores2D\bin\Debug\WinAppVectores2D.exe
+E:\WinAppVectores2D\WinAppVectores2D\bin\Debug\WinAppVectores2D.pdb
+E:\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.csprojResolveAssemblyReference.cache
+E:\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.frmVectors2D.resources
+E:\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.Properties.Resources.resources
+E:\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.csproj.GenerateResource.Cache
+I:\WinAppVectores2D\WinAppVectores2D\bin\Debug\WinAppVectores2D.exe.config
+I:\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.exe
+I:\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.pdb
+C:\Users\jhony\Google Drive\Ing. Sistemas\3º semestre sistemas\Computacion-Grafica\2º Parcial\WinAppVectores2D\WinAppVectores2D\bin\Debug\WinAppVectores2D.exe.config
+C:\Users\jhony\Google Drive\Ing. Sistemas\3º semestre sistemas\Computacion-Grafica\2º Parcial\WinAppVectores2D\WinAppVectores2D\bin\Debug\WinAppVectores2D.exe
+C:\Users\jhony\Google Drive\Ing. Sistemas\3º semestre sistemas\Computacion-Grafica\2º Parcial\WinAppVectores2D\WinAppVectores2D\bin\Debug\WinAppVectores2D.pdb
+C:\Users\jhony\Google Drive\Ing. Sistemas\3º semestre sistemas\Computacion-Grafica\2º Parcial\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.csprojResolveAssemblyReference.cache
+C:\Users\jhony\Google Drive\Ing. Sistemas\3º semestre sistemas\Computacion-Grafica\2º Parcial\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.frmVectors2D.resources
+C:\Users\jhony\Google Drive\Ing. Sistemas\3º semestre sistemas\Computacion-Grafica\2º Parcial\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.Properties.Resources.resources
+C:\Users\jhony\Google Drive\Ing. Sistemas\3º semestre sistemas\Computacion-Grafica\2º Parcial\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.csproj.GenerateResource.Cache
+C:\Users\jhony\Google Drive\Ing. Sistemas\3º semestre sistemas\Computacion-Grafica\2º Parcial\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.exe
+C:\Users\jhony\Google Drive\Ing. Sistemas\3º semestre sistemas\Computacion-Grafica\2º Parcial\WinAppVectores2D\WinAppVectores2D\obj\Debug\WinAppVectores2D.pdb
