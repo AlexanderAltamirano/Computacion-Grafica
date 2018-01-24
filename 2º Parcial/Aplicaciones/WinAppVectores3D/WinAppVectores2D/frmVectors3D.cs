@@ -41,16 +41,13 @@ namespace WinAppVectores2D
             B.ReadData(nudXVectorB, nudYVectorB, nudZVectorB);
 
             R = R.Addition(A, B);
-
             //R = A.Addition(B);
             //R = B.Addition(A);
-
-            R.PrintData(txtXVectorR,txtYVectorR, txtZVectorR);
-            R.GraphAxis(picCanvas);
-            A.Graficadora(A, picCanvas, Color.Red);
             B.MY = B.MY * (-1);
             B.MX = B.MX * (-1);
-            B.MZ = B.MZ * (-1);
+            R.PrintData(txtXVectorR, txtYVectorR, txtZVectorR);
+            R.GraphAxis(picCanvas);
+            A.Graficadora(A, picCanvas, Color.Red);
             B.Graficadora(B, picCanvas, Color.Blue);
             R.Graficadora(R, picCanvas, Color.Green);
 
@@ -69,7 +66,6 @@ namespace WinAppVectores2D
             A.Graficadora(A, picCanvas, Color.Red);
             B.MY = B.MY * (-1);
             B.MX = B.MX * (-1);
-            B.MZ = B.MZ * (-1);
             B.Graficadora(B, picCanvas, Color.Blue);
             R.Graficadora(R, picCanvas, Color.Green);
 
@@ -87,7 +83,6 @@ namespace WinAppVectores2D
             A.Graficadora(A, picCanvas, Color.Red);
             B.MY = B.MY * (-1);
             B.MX = B.MX * (-1);
-            B.MZ = B.MZ * (-1);
             B.Graficadora(B, picCanvas, Color.Blue);
             R.Graficadora(R, picCanvas, Color.Green);
 
@@ -106,7 +101,6 @@ namespace WinAppVectores2D
             A.Graficadora(A, picCanvas, Color.Red);
             B.MY = B.MY * (-1);
             B.MX = B.MX * (-1);
-            B.MZ = B.MZ * (-1);
             B.Graficadora(B, picCanvas, Color.Blue);
             R.Graficadora(R, picCanvas, Color.Green);
         }

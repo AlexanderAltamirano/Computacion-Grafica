@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B5EFF52B-E247-4F2C-BB02-DF7AA49CDD2C}</ProjectGuid>
+    <ProjectGuid>{4642444C-13FF-4ED8-80C1-2FBFE8AFC480}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WinAppVectores2D</RootNamespace>
-    <AssemblyName>WinAppVectores2D</AssemblyName>
+    <RootNamespace>WinAppMSAgentsManagement</RootNamespace>
+    <AssemblyName>WinAppMSAgentsManagement</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -32,6 +32,15 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AxInterop.AgentObjects, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.AgentObjects.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.AgentObjects, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.AgentObjects.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -44,17 +53,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CVector3D.cs" />
-    <Compile Include="frmVectors3D1.cs">
+    <Compile Include="CAgent.cs" />
+    <Compile Include="frmAgentManagement.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmVectors3D1.Designer.cs">
-      <DependentUpon>frmVectors3D1.cs</DependentUpon>
+    <Compile Include="frmAgentManagement.Designer.cs">
+      <DependentUpon>frmAgentManagement.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmVectors3D1.resx">
-      <DependentUpon>frmVectors3D1.cs</DependentUpon>
+    <EmbeddedResource Include="frmAgentManagement.resx">
+      <DependentUpon>frmAgentManagement.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

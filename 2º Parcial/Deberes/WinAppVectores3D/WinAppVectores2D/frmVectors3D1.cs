@@ -47,10 +47,10 @@ namespace WinAppVectores2D
 
             R.PrintData(txtXVectorR,txtYVectorR, txtZVectorR);
             R.GraphAxis(picCanvas);
-            A.Graficadora(A, picCanvas, Color.Red);
-            B.MY = B.MY * (-1);
-            B.MX = B.MX * (-1);
+            A.MZ = A.MZ * (-1);
             B.MZ = B.MZ * (-1);
+            R.MZ = R.MZ * (-1);
+            A.Graficadora(A, picCanvas, Color.Red);            
             B.Graficadora(B, picCanvas, Color.Blue);
             R.Graficadora(R, picCanvas, Color.Green);
 
@@ -66,10 +66,10 @@ namespace WinAppVectores2D
          
             R.PrintData(txtXVectorR, txtYVectorR, txtZVectorR);
             R.GraphAxis(picCanvas);
-            A.Graficadora(A, picCanvas, Color.Red);
-            B.MY = B.MY * (-1);
-            B.MX = B.MX * (-1);
+            A.MZ = A.MZ * (-1);
             B.MZ = B.MZ * (-1);
+            R.MZ = R.MZ * (-1);
+            A.Graficadora(A, picCanvas, Color.Red);           
             B.Graficadora(B, picCanvas, Color.Blue);
             R.Graficadora(R, picCanvas, Color.Green);
 
@@ -84,10 +84,10 @@ namespace WinAppVectores2D
 
             R.PrintData(txtXVectorR, txtYVectorR, txtZVectorR);
             R.GraphAxis(picCanvas);
-            A.Graficadora(A, picCanvas, Color.Red);
-            B.MY = B.MY * (-1);
-            B.MX = B.MX * (-1);
+            A.MZ = A.MZ * (-1);
             B.MZ = B.MZ * (-1);
+            R.MZ = R.MZ * (-1);
+            A.Graficadora(A, picCanvas, Color.Red);
             B.Graficadora(B, picCanvas, Color.Blue);
             R.Graficadora(R, picCanvas, Color.Green);
 
@@ -104,9 +104,9 @@ namespace WinAppVectores2D
             R.PrintData(txtXVectorR, txtYVectorR, txtZVectorR);
             R.GraphAxis(picCanvas);
             A.Graficadora(A, picCanvas, Color.Red);
-            B.MY = B.MY * (-1);
-            B.MX = B.MX * (-1);
+            A.MZ = A.MZ * (-1);
             B.MZ = B.MZ * (-1);
+            R.MZ = R.MZ * (-1);
             B.Graficadora(B, picCanvas, Color.Blue);
             R.Graficadora(R, picCanvas, Color.Green);
         }

@@ -45,16 +45,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CVector3D.cs" />
-    <Compile Include="frmVectors3D1.cs">
+    <Compile Include="frmVectors3D.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmVectors3D1.Designer.cs">
-      <DependentUpon>frmVectors3D1.cs</DependentUpon>
+    <Compile Include="frmVectors3D.Designer.cs">
+      <DependentUpon>frmVectors3D.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmVectors3D1.resx">
-      <DependentUpon>frmVectors3D1.cs</DependentUpon>
+    <EmbeddedResource Include="frmVectors3D.resx">
+      <DependentUpon>frmVectors3D.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
